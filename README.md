@@ -1,2 +1,0 @@
-# gapminderImprovments
-Created with CodeSandbox
